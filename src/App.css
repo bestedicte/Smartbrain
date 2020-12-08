@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.peach {
+  background-color: #ffb5a7;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
